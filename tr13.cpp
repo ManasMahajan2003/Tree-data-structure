@@ -1,4 +1,4 @@
-//print nodes at k distance
+//Print nodes at k distance
 #include<iostream>
 using namespace std;
 class node{
